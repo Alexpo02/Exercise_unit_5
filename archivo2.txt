@@ -1,1 +1,2 @@
 Texto de ejemplo del segundo archivo
+Texto de ejemplo para editar el segundo archivo
